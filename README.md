@@ -1,1 +1,2 @@
-# EthereumCast
+Ethereum contracts and their deployments
+
